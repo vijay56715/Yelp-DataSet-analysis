@@ -47,14 +47,23 @@ Hence we will take number of bucket = 5
 # Analysis
 
  Top 10 Companies with good ratings
+ 
+ 
+ 
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/100192165/159175133-0bb36e91-ee31-4398-bda4-e50b8031889e.png">
 
 
 Average stars rating of companies
 
+
 <img width="319" alt="image" src="https://user-images.githubusercontent.com/100192165/159175286-c4b5e5a8-7ec7-401e-85fc-874a7f141e36.png">
 
+
+
+
 Count of stars of each companies on which investment can be made.
+
+
 
 <img width="319" alt="image" src="https://user-images.githubusercontent.com/100192165/159175347-193c75c8-e88f-4992-9761-90b5ec2c9868.png">
 
