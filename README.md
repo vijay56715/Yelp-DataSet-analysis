@@ -80,8 +80,10 @@ Count of stars of each companies on which investment can be made.
 
 
 
+# Companies with rating greater than 4.5
 
 
+![image](https://user-images.githubusercontent.com/100192165/159224040-01a905b0-2681-48fd-a47c-2fef2e20d551.png)
 
 
 
