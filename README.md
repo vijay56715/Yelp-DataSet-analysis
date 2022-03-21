@@ -17,14 +17,19 @@ Beyond processing this data, we will display the data in terms of graphs to let 
 # 2. GOAL
 The main goal of this project is to provide an insight to the future investo/owner, on where and what business to invest in or where to start a new business based on the customer satisfaction.
 
-# 3. Technology Stack
+# 3. Datasets
+a) Review dataset - https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json
+
+b) Business dataset - https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json
+
+# 4. Technology Stack
 a. Mysql
 b. HDFS 
 c. Hive 
 d. Pyspark 
 e. Flask
 
-# 4. Bucket Calculation
+# 5. Bucket Calculation
 Block Size in HDFS = 128 MB
 Size of review dataset = 5120 MB
 5120/128 = 40
@@ -35,16 +40,16 @@ Size of user dataset = 3205 MB
 2^x = 25 where x will be number of buckets
 Hence we will take number of bucket = 5
 
-# 5. Project Architecture
+# 6. Project Architecture
 
 <img width="824" alt="Architechture (1)" src="https://user-images.githubusercontent.com/100192165/159173581-d76c6e3a-b4f9-40c2-b177-60656ba07f95.png">
 
 
-# 6. ER Diagram
+# 7. ER Diagram
 
 <img width="488" alt="image" src="https://user-images.githubusercontent.com/100192165/159173823-83af5ab2-fef5-45de-b0df-3dd04c551706.png">
 
-# Analysis
+# 8.Analysis
 
  Top 10 Companies with good ratings
  
@@ -66,6 +71,17 @@ Count of stars of each companies on which investment can be made.
 
 
 <img width="319" alt="image" src="https://user-images.githubusercontent.com/100192165/159175347-193c75c8-e88f-4992-9761-90b5ec2c9868.png">
+
+
+# Companies with rating less than 2.5
+
+
+![image](https://user-images.githubusercontent.com/100192165/159223805-f85147de-bcbf-43c5-abcd-679c5a250474.png)
+
+
+
+
+
 
 
 
