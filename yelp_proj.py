@@ -27,8 +27,8 @@ df2_business=df1_business.dropna()
 
 # print(df_review.count())
 df1_review=df_review.dropna()
-df2_business.show()
-df2_business.printSchema()
+# df2_business.show()
+# df2_business.printSchema()
 
 #Writing the cleaned and sample datasets to hadoop
 
