@@ -1,12 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructField,StructType,StringType,IntegerType
 from pyspark.sql.functions import explode,split,from_json,struct,create_map,when
-# import nltk
-# nltk.download('vader_lexicon')
-# from nltk.sentiment.sentiment_analyzer import SentimentAnalyzer
-# from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-# sid = SentimentIntensityAnalyzer()
 
 
 
