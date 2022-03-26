@@ -1,0 +1,34 @@
+"root":{
+14 items
+"business_id":
+string"Pns2l4eNsfO8kk83dixA6A"
+"name":
+string"Abby Rappoport, LAC, CMQ"
+"address":
+string"1616 Chapala St, Ste 2"
+"city":
+string"Santa Barbara"
+"state":
+string"CA"
+"postal_code":
+string"93101"
+"latitude":
+float34.4266787
+"longitude":
+float-119.7111968
+"stars":
+int5
+"review_count":
+int7
+"is_open":
+int0
+"attributes":{
+1 item
+"ByAppointmentOnly":
+string"True"
+}
+"categories":
+string"Doctors, Traditional Chinese Medicine, Naturopathic/Holistic, Acupuncture, Health & Medical, Nutritionists"
+"hours":
+NULL
+}
