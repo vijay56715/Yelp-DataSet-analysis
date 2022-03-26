@@ -24,11 +24,17 @@ b) Business dataset - https://www.kaggle.com/yelp-dataset/yelp-dataset?select=ye
 
 # 4. Technology Stack
 a. HDFS 
+
 b. Hive 
+
 c. Pyspark 
+
 d. Flask
+
 e. Html
+
 f. Plotly
+
 # 5. Bucket Calculation
 Block Size in HDFS = 128 MB
 Size of review dataset = 5120 MB
